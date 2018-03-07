@@ -1,0 +1,9 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    background: #333;
+    color: #DDD;
+}
+
+a {
+    color: white !important;
+}
